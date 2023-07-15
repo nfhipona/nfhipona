@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [nfhipona](mailto:github.oet1k@passmail.com)
 - ⚡ Fun fact: I am a 🐶 person
 
+
 ## GitHub Activities
 
 | **🛠️ COMMIT STATS**  |
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 | [![Most Used Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nfhipona&layout=pie&theme=tokyonight&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Most Used Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nfhipona&layout=pie&theme=tokyonight&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
 
+
 ## 🗒 Guestbook
 <!--START_SECTION:guestbook-->
 
@@ -50,3 +52,8 @@ Do you like my project or just want to say hi? Feel free to [post](https://githu
 - [Answer by eNeF for Firebase DeepLink does not work on Killed/Terminated App state in iOS14](https://stackoverflow.com/questions/65929749/firebase-deeplink-does-not-work-on-killed-terminated-app-state-in-ios14/66152222#66152222)
 - [Firebase DeepLink does not work on Killed/Terminated App state in iOS14](https://stackoverflow.com/questions/65929749/firebase-deeplink-does-not-work-on-killed-terminated-app-state-in-ios14)
 <!-- STACKOVERFLOW:END -->
+
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
