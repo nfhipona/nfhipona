@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Neil Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show=reviews&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Neil Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show=reviews&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+| CURRENT YEAR STATS  |   ALL STATS   |
+| ------------------- | ------------- |
+| ![Commit Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&hide=issues,contribs&show=reviews&custom_title=Commit Stats#gh-light-mode-only) | ![Thread Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&custom_title=Thread Stats#gh-light-mode-only) |
+
+| ![Commit Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&hide=issues,contribs&show=reviews&custom_title=Commit Stats#gh-light-mode-only) | ![Thread Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&custom_title=Thread Stats#gh-light-mode-only) |
+| ------------------- | ------------- |
