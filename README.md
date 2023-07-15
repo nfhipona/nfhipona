@@ -15,34 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: [nfhipona](mailto:github.oet1k@passmail.com)
-- ⚡ Fun fact: I am a 🐶 person
+- 🌱 &nbsp;I’m currently learning: GitHub actions and workflows
+- 🛠️ &nbsp;I’m currently building: [Guestbook workflow](https://github.com/nfhipona/guestbook-workflow)
+- 📫 &nbsp;How to reach me: [nfhipona](mailto:github.oet1k@passmail.com)
+- ⚡ &nbsp;Fun fact: I am a 🐶 person
 
 
 ## GitHub Activities
 
-| **🛠️ COMMIT STATS**  |
-| :-------------------: |
+| **⛓️ &nbsp;COMMIT STATS** |
+| :-----------------------: |
 | [![Commit Stats-Light](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=graywhite&rank_icon=default&hide=issues&show=reviews&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Commit Stats-Dark](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=default&hide=issues&show=reviews&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
 
-|   **🕸️ THREAD STATS**   |
-| :-------------------: |
+| **🕸️ &nbsp;THREAD STATS** |
+| :-----------------------: |
 | [![Thread Stats-Light](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=graywhite&rank_icon=percentile&include_all_commits=true&hide=stars,prs,contribs&show=discussions_started,discussions_answered&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Thread Stats-Dark](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,prs,contribs&show=discussions_started,discussions_answered&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
 
-|   **📚 LANGUAGE STATS**   |
-| :-------------------: |
+| **📚 &nbsp;LANGUAGE STATS** |
+| :-------------------------: |
 | [![Most Used Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nfhipona&layout=pie&theme=tokyonight&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Most Used Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nfhipona&layout=pie&theme=tokyonight&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
 
 
-## 🗒 Guestbook
+## 🗒 &nbsp;Guestbook
 <!--START_SECTION:guestbook-->
 <!--END_SECTION:guestbook-->
 
 
-## StackOverflow Activity
+## 👨‍💻 &nbsp;StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Import issue with &#39;flatpickr&#39; missing package index.js in @carbon components](https://stackoverflow.com/questions/74792802/import-issue-with-flatpickr-missing-package-index-js-in-carbon-components)
 - [Answer by eNeF for Git is not working after macOS update &lpar;&quot;xcrun: error: invalid active developer path &lpar;/Library/Developer/CommandLineTools&quot;&rpar;](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-p/74202111#74202111)
@@ -52,6 +54,6 @@ Here are some ideas to get you started:
 <!-- STACKOVERFLOW:END -->
 
 
-## Blog posts
+## 📘 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
