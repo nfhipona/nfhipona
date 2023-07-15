@@ -12,8 +12,8 @@ jobs:
   update_guestbook:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
       - name: Update guestbook
         uses: nfhipona/readme-guestbook@master
         with:
