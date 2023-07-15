@@ -1,4 +1,4 @@
-name: GitHub Readme Guestbook
+name: Guestbook workflow
 
 on:
   issues:
