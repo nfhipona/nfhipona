@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 | :-------------------: |
 | [![Thread Stats-Light](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=graywhite&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Thread Stats-Dark](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
+
+|   **📚 LANGUAGE STATS**   |
+| :-------------------: |
+| [![Most Used Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=nfhipona&layout=pie&theme=tokyonight&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Most Used Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=nfhipona&layout=pie&theme=tokyonight&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
