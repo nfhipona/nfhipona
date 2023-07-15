@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| **CURRENT YEAR STATS**  |   **ALL STATS**   |
-| ------------------- | ------------- |
-| ![Commit Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&hide=issues,contribs&show=reviews&custom_title=Commit%20Stats#gh-light-mode-only) &#10; ![Commit Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&hide=issues,contribs&show=reviews&custom_title=Commit%20Stats#gh-dark-mode-only) | ![Thread Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&custom_title=Thread%20Stats#gh-light-mode-only) &#10; ![Thread Stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&custom_title=Thread%20Stats#gh-dark-mode-only) |
+| **🛠️ COMMIT STATS**  |
+| :-------------------: |
+| [![Commit Stats-Light](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=graywhite&rank_icon=default&include_all_commits=true&hide=issues,contribs&show=reviews&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Commit Stats-Dark](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=default&include_all_commits=true&hide=issues,contribs&show=reviews&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
+
+|   **🕸️ THREAD STATS**   |
+| :-------------------: |
+| [![Thread Stats-Light](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=graywhite&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&hide_title=true&card_width=600px#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Thread Stats-Dark](https://github-readme-stats.vercel.app/api?username=nfhipona&show_icons=true&theme=tokyonight&rank_icon=percentile&include_all_commits=true&hide=stars,commits,prs&show=discussions_started,discussions_answered&hide_title=true&card_width=600px#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) |
