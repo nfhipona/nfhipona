@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 
 ## 🗒 Guestbook
 <!--START_SECTION:guestbook-->
-
-Do you like my project or just want to say hi? Feel free to [post](https://github.com/nfhipona/nfhipona/issues/new?title=Guestbook) to my guestbook!
 <!--END_SECTION:guestbook-->
 
 
