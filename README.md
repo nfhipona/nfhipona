@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Neil Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show=reviews&show_icons=true&theme=tokyonight#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Neil Francis's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfhipona&show=reviews&show_icons=true&theme=tokyonight#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
