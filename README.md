@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 
 ## 🗒 &nbsp;Guestbook
-<!--START_SECTION:guestbook-->
-<!--END_SECTION:guestbook-->
+<!--START_SECTION:guestbook-section-->
+<!--END_SECTION:guestbook-section-->
 
 
 ## 👨‍💻 &nbsp;StackOverflow Activity
