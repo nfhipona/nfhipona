@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🛠️ &nbsp;I’m currently building: [Guestbook Workflow](https://github.com/nfhipona/guestbook-workflow)
 - 📚 &nbsp;My npmjs registry: [npmjs.org](https://www.npmjs.com/~nfhipona)
 - 📫 &nbsp;How to reach me: [nfhipona](mailto:github.oet1k@passmail.com)
-- ⚡ &nbsp;Fun fact: I am a 🐶 person
+- ⚡ &nbsp;Fun fact: I chase mosquitoes and flies!
 
 
 ## GitHub Activities
