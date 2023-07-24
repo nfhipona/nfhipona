@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 &nbsp;I’m currently learning: GitHub actions and workflows
-- 🛠️ &nbsp;I’m currently building: [Guestbook workflow](https://github.com/nfhipona/guestbook-workflow)
+- 🌱 &nbsp;I’m currently learning: GitHub actions and workflows, updating some libs and packages
+- 🛠️ &nbsp;I’m currently building: [Guestbook Workflow](https://github.com/nfhipona/guestbook-workflow)
 - 📫 &nbsp;How to reach me: [nfhipona](mailto:github.oet1k@passmail.com)
+- 📚 &nbsp;My [npmjs.org](https://www.npmjs.com/~nfhipona)
 - ⚡ &nbsp;Fun fact: I am a 🐶 person
 
 
