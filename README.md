@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🌱 &nbsp;I’m currently learning: GitHub actions and workflows, updating some libs and packages
 - 🛠️ &nbsp;I’m currently building: [MyTagCollection](https://github.com/nfhipona/MyTagCollection)
-- 📚 &nbsp;My npmjs registry: [npmjs.org](https://www.npmjs.com/~nfhipona)
+- 📚 &nbsp;My npmjs registry: [npmjs.org](https://bit.ly/-npmjs)
 - 📫 &nbsp;How to reach me: [nfhipona](mailto:github.oet1k@passmail.com)
 - ⚡ &nbsp;Fun fact: I chase mosquitoes and flies!
 
